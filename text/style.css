@@ -1,0 +1,41 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+#p1 {
+    text-align: justify;
+}
+#back {
+    text-align: center;
+    background-image: url(./download.jpg);
+    background-repeat: no-repeat;
+    
+}
+span {
+    vertical-align: top;
+}
+#ss1 {
+    background-color: rgb(158, 135, 180);
+    text-shadow: 100px;
+}
+#p2 {
+    background-color: rgb(227, 124, 124);
+    text-shadow:2px 2px 7px ;
+}
+a:visited {
+    color:rgb(255, 0, 0)
+}
+a:hover {
+    color: rgb(25, 255, 44);
+}
+#submit:active {
+    color: blue;
+}
+#email:hover {
+    color: brown;
+    
+}

@@ -1,0 +1,22 @@
+h1 {
+    color: darkcyan;
+    background-color: lightseagreen;
+    
+}
+h2 {
+    color: mediumslateblue;
+    background-color: lightcyan;
+}
+p {
+    color: rgb(100,150,50);
+    background-color: lightskyblue;
+}
+#square {
+    background-color: lightgrey;
+}
+#sp1 {
+    background-color: blue;
+}
+.p2{
+    background-color: blanchedalmond;
+}
