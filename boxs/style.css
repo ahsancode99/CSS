@@ -16,3 +16,36 @@
     border-left: 5px solid orange;
     padding: 10px;
 }
+li {
+    list-style: none;
+    display: inline;
+    padding: 5px;
+    border: 2px solid black;
+}
+#d1 {
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px 5px crimson ;
+}
+#box1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid rgb(11, 214, 28);
+    border-radius: 150px;
+}
+#box2 {
+    height: 300px;
+    width: 300px;
+    border: 1px solid rgb(230, 17, 17);
+    border-radius: 20px;
+    text-align: center;
+}
+#box3{
+    height: 300px;
+    width: 300px;
+    border: 6px solid rgb(70, 34, 214);
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 50px;
+    
+}

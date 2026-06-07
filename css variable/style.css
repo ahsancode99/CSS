@@ -1,0 +1,20 @@
+:root{
+    /* global variable */
+    --colorForText:rgb(36, 26, 230);
+    --headingStyling:font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+p{
+   color: var(--colorForText); 
+   
+}
+h1, h2 {
+    color: rgb(248, 21, 21);
+    font-family: var(--headingStyling);
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: lightgray;
+}
