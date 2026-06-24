@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+html{
+font-size: 20px;
+}
+nav{
+    background-color: chocolate;
+    height: 50px;
+}
+p{
+     font-size: clamp(5rem,9vw,15rem);
+}
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.card{
+    height: 160px;
+    width: 200px;
+    border: 1px solid black;
+}
+.card:first-child{
+   background-color: cornflowerblue;
+
+}
+.card:nth-child(2){
+    background-color: darkgrey;
+}
+.card:last-child{
+    background-color: coral;
+}
